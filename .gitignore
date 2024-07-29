@@ -1,5 +1,6 @@
 # Large datasets
 **/song_lyrics.csv
+kaggle/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
